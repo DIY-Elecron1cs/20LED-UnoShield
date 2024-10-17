@@ -1,4 +1,5 @@
 #define DELAY 30
+
 void setup(){
   for(int i = 0; i <= 19; i++){
     pinMode(i, OUTPUT);
