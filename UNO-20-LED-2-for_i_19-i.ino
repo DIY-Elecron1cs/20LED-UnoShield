@@ -1,7 +1,3 @@
-int c = 0;
-int a = 0;
-int b = 19;
-int DELAY = 8;
 void setup(){
 pinMode(0, OUTPUT);
 pinMode(1, OUTPUT);
